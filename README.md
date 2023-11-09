@@ -11,6 +11,12 @@ https://reactjs-ecommerce-app.vercel.app/
 
 - Easy to integrate with Backend
 - Fully Responsive
+- Login
+- Signup
+- Products
+- Add To Cart
+- Checkout
+- Product Filters
 
 
 ## Screenshots
