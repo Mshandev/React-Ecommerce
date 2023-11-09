@@ -5,7 +5,7 @@ This repository hosts the source code for our React-based Ecommerce website, fea
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://react-ecommerce-shan.netlify.app/
 
 ## Features
 
