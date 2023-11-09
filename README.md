@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+This repository hosts the source code for our React-based Ecommerce website, featuring a user-friendly shopping platform and a wide range of products
 
 
 ## Demo
